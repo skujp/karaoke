@@ -24,5 +24,18 @@
     "genre" : "rap",
     "restricted" : false,
     "misc" : null
+  },
+  {
+    "title": "スティルD.R.E（キクラゲ・",
+    "lyrics": "still-dre.ja.jas",
+    "audio": "aHR0cHM6Ly9pYTgwMTAwMC51cy5hcmNoaXZlLm9yZy8zMy9pdGVtcy9zdGlsbC1kcmUtbXVzaWMvc3RpbGwtZHJlLW11c2ljLm1wMw==",
+    "language" : "ja",
+    "writer" : "ジェイ・Z",
+    "performers" : "ドクター・ドレー、スヌープ・ドッグ",
+    "mixer" : "スーパー・キクラゲ",
+    "type" : "リミックス",
+    "genre" : "ラップ",
+    "restricted" : false,
+    "misc" : null
   }
 ]
