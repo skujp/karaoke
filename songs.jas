@@ -4,9 +4,24 @@
     "lyrics": "the-house-of-the-rising-sun.jas",
     "audio": "aHR0cHM6Ly9kbjcyMTkwOC5jYS5hcmNoaXZlLm9yZy8wL2l0ZW1zL2hvdXNlLW9mLXJpc2luZy1zdW4taW5zdHJ1bWVudGFsL2hvdXNlLW9mLXJpc2luZy1zdW4taW5zdHJ1bWVudGFsLm1wMw==",
     "language" : "en",
-    "artist" : "the animals",
+    "writer" : "Unknown",
+    "performers" : "The Animals",
+    "mixer" : "Super Kikurage",
     "type" : "remix",
     "genre" : "folk-rock",
+    "restricted" : false,
+    "misc" : null
+  },
+  {
+    "title": "Still D.R.E (Kikurage Remix)",
+    "lyrics": "still-dre.jas",
+    "audio": "aHR0cHM6Ly9pYTgwMTAwMC51cy5hcmNoaXZlLm9yZy8zMy9pdGVtcy9zdGlsbC1kcmUtbXVzaWMvc3RpbGwtZHJlLW11c2ljLm1wMw==",
+    "language" : "en",
+    "writer" : "Jay-Z",
+    "performers" : "Dr. Dre, Snoop Dog",
+    "mixer" : "Super Kikurage",
+    "type" : "remix",
+    "genre" : "rap",
     "restricted" : false,
     "misc" : null
   }
